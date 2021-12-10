@@ -18,9 +18,9 @@ ReactDOM.render(
   <React.StrictMode>
    {/* <Greeting isLoggedIn ={true}/> */}
    {/* <Flag/> */}
-  <Header/>
-   {/* <Nav/>
-   <Container/> */}
+  {/* <Header/> */}
+   <Nav/>
+   {/* <Container/> */}
     {/* <Buttonevent/> */}
     {/* <Buttoncounter/> */}
     {/* <Demo/> */}
