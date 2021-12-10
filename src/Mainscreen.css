@@ -1,0 +1,103 @@
+.mainscreen {
+    text-align: center;
+   
+}
+.date-time{
+       font-family: 'Source Sans Pro', sans-serif;
+        border-radius: 5px;
+         padding-top: 25px;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 230px;
+        background-color: #d6d305;
+       font-size:12px;
+       font-weight:bold;
+       padding: 6px 20px;
+       left:-20px;
+       top:-10px;
+       text-align: center;
+       color:white;
+       border-radius:25px;
+       float: left;
+    
+}
+.buying-selling {
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius:25px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 230px;
+    background-color: #4187b6;
+    font-size:12px;
+    font-weight:bold;
+    padding: 6px 20px;
+    left:-20px;
+    top:-10px;
+    text-align: center;
+    color:white;
+    float: left;
+}
+.up-coming-meeting {
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius:25px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 230px;
+    background-color: #4bc02d;
+    font-size:12px;
+    font-weight:bold;
+    padding: 6px 20px;
+    left:-20px;
+    top:-10px;
+    text-align: center;
+    color:white; 
+    float: left;
+}
+.leasing-service {
+     font-family: 'Source Sans Pro', sans-serif;
+    border-radius:25px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 230px;
+    background-color: #066414;
+    font-size:12px;
+    font-weight:bold;
+    padding: 6px 20px;
+    left:-20px;
+    top:-10px;
+    text-align: center;
+    color:white; 
+    float: left;
+}
+.maintenance-service {
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius:25px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 230px;
+    background-color: #2c1888;
+    font-size:12px;
+    font-weight:bold;
+    padding: 6px 20px;
+    left:-20px;
+    top:-10px;
+    text-align: center;
+    color:white; 
+    float: left;
+}
+.revenue-states {
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius:25px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 230px;
+    background-color: #ccb94b;
+    font-size:12px;
+    font-weight:bold;
+    padding: 6px 20px;
+    left:-20px;
+    top:-10px;
+    text-align: center;
+    color:white; 
+    float: left;
+}
