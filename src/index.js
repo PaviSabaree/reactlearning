@@ -13,13 +13,17 @@ import Header from './Header';
 import Nav from './Nav';
 import Mainscreen from './Mainscreen';
 import Flag from './Flag';
+import Userprofile from './Userprofile';
+import Userprofile1 from './Userprofile1';
 
 ReactDOM.render( 
   <React.StrictMode>
+    {/* <Userprofile/> */}
+    <Userprofile1/>
    {/* <Greeting isLoggedIn ={true}/> */}
    {/* <Flag/> */}
   {/* <Header/> */}
-   <Nav/>
+   {/* <Nav/> */}
    {/* <Container/> */}
     {/* <Buttonevent/> */}
     {/* <Buttoncounter/> */}
